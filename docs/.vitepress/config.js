@@ -44,6 +44,7 @@ export default defineConfig({
                     items: [
                         { text: 'Markdown Cheat Sheet', link: '/blog/other/markdown-cheatsheet' },
                         { text: 'Git Commit Message', link: '/blog/other/git-commit-message' },
+                        { text: 'Vitepress deploy.yml workflows', link: '/blog/other/vitepress-deploy-yml-workflows' },
                     ]
                 },
             ],

@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as i,a}from"./app.b9d41ebe.js";const _=JSON.parse('{"title":"Git Commit Message","description":"","frontmatter":{},"headers":[],"relativePath":"blog/other/git-commit-message..md"}'),o={name:"blog/other/git-commit-message..md"},l=a("",2),s=[l];function n(r,c,p,m,d,h){return i(),t("div",null,s)}const g=e(o,[["render",n]]);export{_ as __pageData,g as default};
