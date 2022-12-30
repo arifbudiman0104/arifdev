@@ -3,7 +3,7 @@ layout: home
 title: Home
 
 hero:
-  name: ArifCode
+  name: ArifDev
   text: Student & Web Developer
   tagline: Hi 👋 My name is Arif Budiman, I am Web Developer, currently studying at Muhammadiyah University of Yogyakarta. Interested in Laravel Web Development and Tailwind CSS.
   images:

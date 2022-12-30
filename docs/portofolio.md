@@ -23,44 +23,44 @@ features:
   #   linkText: Github
   
   - icon: 🖥️
-    title: SIMCARATA (Deployed)
+    title: SIMCARATA (Deployed) - Laravel
     details: Sistem Informasi Cabang Ranting Muhammadiyah Tegalrejo made with Laravel 8, Laravel Voyager and Bootstrap
     link: http://simcarata.org/
     linkText: Website
   - icon: 🖥️
-    title: Chirper
+    title: Chirper - Laravel
     details: Laravel Bootcamp made with Laravel 9, Laravel Breeze and Tailwind
     link: https://github.com/arifbudimanarrosyid/chirper
     linkText: Github
   - icon: 🖥️
-    title: Pendaftaran Caleg (Deployed)
+    title: Pendaftaran Caleg (Deployed) - Laravel
     details: Pendaftaran Calon Legislatif Sulawesi Utara made with Laravel 8, Laravel Frontend Preset and Tailwind
     link: https://daftar-caleg-pdsultra.com/
     linkText: Website
   - icon: 🖥️
-    title: WPU Laravel
+    title: WPU Blog - Laravel
     details: Frontend & dashboard blog site made with Laravel 8 and Bootstrap
     link: https://github.com/arifbudimanarrosyid/chirper
     linkText: Github
   - icon: 🖥️
-    title: ArifCode - Filament
-    details: Dashboard blog site made with Laravel 8 and Filament Admin
-    link: https://github.com/arifbudimanarrosyid/arifcode-filament
-    linkText: Github
-  - icon: 🖥️
-    title: ArifCode - Breeze
-    details: Frontend blog site made with Laravel 9 and laravel Breeze
-    link: https://github.com/arifbudimanarrosyid/arifcode-breeze-vite
-    linkText: Github
-  - icon: 🖥️
-    title: ArifCode - VitePress
-    details: Static site generator, markdown base made with VitePress
+    title: ArifCode
+    details: Blog site made with Laravel 9, Laravel Breeze, Tailwind CSS, Alpine JS and Flowbite
     link: https://github.com/arifbudimanarrosyid/arifcode
     linkText: Github
   - icon: 🖥️
-    title: CRUD Mahasiswa
+    title: ArifDev - VitePress
+    details: Static site generator, markdown base made with VitePress
+    link: https://github.com/arifbudimanarrosyid/arifdev
+    linkText: Github
+  - icon: 🖥️
+    title: CRUD Mahasiswa - Laravel
     details: Frontend CRUD data mahasiswa made with Laravel 8 and Bootstrap
     link: https://github.com/arifbudimanarrosyid/mahasiswa-laravel
+    linkText: Github
+  - icon: 🖥️
+    title: Todo - Laravel
+    details: Todo web app with Auth, made with Laravel 8 and Laravel UI Bootstrap.
+    link: https://github.com/arifbudimanarrosyid/laravel-todo
     linkText: Github
   
 ---
