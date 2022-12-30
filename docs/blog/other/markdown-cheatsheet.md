@@ -1,6 +1,7 @@
 # Markdown Cheat Sheet
+Source: [The Markdown Guide](https://www.markdownguide.org)
 
-Thanks for visiting [The Markdown Guide](https://www.markdownguide.org)!
+Thanks for visiting The Markdown Guide!
 
 This Markdown cheat sheet provides a quick overview of all the Markdown syntax elements. It can’t cover every edge case, so if you need more information about any of these elements, refer to the reference guides for [basic syntax](https://www.markdownguide.org/basic-syntax) and [extended syntax](https://www.markdownguide.org/extended-syntax).
 
@@ -125,3 +126,4 @@ X^2^
 ### Button with Image
 
 [![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/markdownguide)
+

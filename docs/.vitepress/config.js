@@ -30,19 +30,20 @@ export default defineConfig({
                     text: 'Laravel',
                     collapsible: true,
                     items: [
-                        { text: 'one', link: '/blog/laravel/one' },
+                        // { text: 'one', link: '/blog/laravel/one' },
                     ]
                 },{
                     text: 'Tailwind CSS',
                     collapsible: true,
                     items: [
-                        { text: 'tailwind', link: '/blog/tailwindcss/tailwind' },
+                        // { text: 'tailwind', link: '/blog/tailwindcss/tailwind' },
                     ]
                 },{
-                    text: 'Markdown',
+                    text: 'Other',
                     collapsible: true,
                     items: [
-                        { text: 'Markdown Cheat Sheet', link: '/blog/markdown/markdowncheatsheet' },
+                        { text: 'Markdown Cheat Sheet', link: '/blog/other/markdown-cheatsheet' },
+                        { text: 'Git Commit Message', link: '/blog/other/git-commit-message' },
                     ]
                 },
             ],
