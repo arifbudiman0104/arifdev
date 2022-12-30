@@ -54,7 +54,7 @@ export default defineConfig({
         //     // copyright: 'Copyright © 2019-present Evan You'
         // },
         editLink: {
-            pattern: 'https://github.com/arifbudimanarrosyid/vitepress/tree/master/docs/:path'
+            pattern: 'https://github.com/arifbudimanarrosyid/arifdev/tree/master/docs/:path'
           }
     }
 }
