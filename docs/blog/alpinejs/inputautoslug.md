@@ -33,10 +33,11 @@ Alpine.start()
 ```
 ### Example 2
 ```html
-<div x-data="{ inputTitle: 'Hello World' }" class="flex gap-4">
+<div x-data="{ inputTitle: '' }" class="flex gap-4">
   <input
     x-model="inputTitle"
     type="text"
+    name="title"
     placeholder="Lorem ipsum dolor, sit amet consectetur adipisicing elit..."
     class="form-input"
   />
@@ -44,6 +45,7 @@ Alpine.start()
   <input
     x-slug="inputTitle"
     type="text"
+    name="slug"
     placeholder="Lorem ipsum dolor, sit amet consectetur adipisicing elit..."
     class="form-input"
   />
