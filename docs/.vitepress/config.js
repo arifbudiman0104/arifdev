@@ -28,9 +28,9 @@ export default defineConfig({
             text: "Alpine JS",
             collapsible: true,
             items: [
-              { text: "Alert Auto Close", link: "/blog/alpinejs/alertautoclose" },
-              { text: "Input Auto Slug", link: "/blog/alpinejs/inputautoslug" },
-              { text: "Scroll Amount", link: "/blog/alpinejs/scrollamount" },
+              { text: "Alert Auto Close", link: "/blog/alpinejs/alert-auto-close" },
+              { text: "Input Auto Slug", link: "/blog/alpinejs/input-auto-slug" },
+              { text: "Scroll Amount", link: "/blog/alpinejs/scroll-amount" },
             ],
           },
         {
@@ -42,6 +42,10 @@ export default defineConfig({
               text: "Laravel Bootcamp : Build Chirper with Blade",
               link: "/blog/laravel/laravel-bootcamp-chirper-with-blade",
             },
+            {
+              text: "ngrok",
+              link: "/blog/laravel/ngrok",
+            }
           ],
         },
         {
