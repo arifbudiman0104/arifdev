@@ -56,6 +56,13 @@ export default defineConfig({
           ],
         },
         {
+          text: "ReactJS",
+          collapsible: true,
+          items: [
+            { text: 'React JS and Babel CDN', link: '/blog/reactjs/reactjs-and-babel-cdn' },
+          ],
+        },
+        {
           text: "Other",
           collapsible: true,
           items: [
