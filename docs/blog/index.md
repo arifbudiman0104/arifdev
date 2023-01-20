@@ -12,7 +12,6 @@ If you have any questions, feel free to contact me. If you want to contribute, y
 ## Important Links
 ### Laravel
 - [Laravel Docs](https://laravel.com/docs)
-
 - [Laravel Jetstream](https://jetstream.laravel.com/2.x/introduction.html)
 - [Laravel Breeze](https://laravel.com/docs/8.x/starter-kits#laravel-breeze)
 - [Laravel UI](https://github.com/laravel/ui)
