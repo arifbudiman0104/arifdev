@@ -1,0 +1,1 @@
+import{_ as r,c as e,o as a,a as t}from"./app.d09bb440.js";const u=JSON.parse('{"title":"Bootcamp: Build Chirper App","description":"","frontmatter":{},"headers":[],"relativePath":"blog/laravel/bootcamp.md"}'),p={name:"blog/laravel/bootcamp.md"},o=t("",7),i=[o];function c(h,l,n,s,d,_){return a(),e("div",null,i)}const b=r(p,[["render",c]]);export{u as __pageData,b as default};
