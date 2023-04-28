@@ -1,4 +1,4 @@
-# Bootcamp: Build Chicper App
+# Bootcamp: Build Chirper App
 
 Source : [Laravel Bootcamp](https://bootcamp.laravel.com/)
 
