@@ -43,6 +43,10 @@ export default defineConfig({
               link: "/blog/laravel/laravel-bootcamp-chirper-with-blade",
             },
             {
+              text: "Laravel Custom Pagination",
+              link: "/blog/laravel/custom-pagination",
+            },
+            {
               text: "ngrok",
               link: "/blog/laravel/ngrok",
             }
