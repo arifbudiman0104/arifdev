@@ -1,4 +1,4 @@
-# Laravel Custom Pagination
+# Custom Pagination
 
 Source : [Laravel Documentation](https://laravel.com/docs/10.x/pagination#customizing-the-pagination-view)
 

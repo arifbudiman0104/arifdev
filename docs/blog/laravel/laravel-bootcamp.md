@@ -1,4 +1,4 @@
-# Laravel Bootcamp: Build Chicper with Blade
+# Bootcamp: Build Chicper with Blade
 
 Source : [Laravel Bootcamp](https://bootcamp.laravel.com/)
 
