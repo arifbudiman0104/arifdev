@@ -40,7 +40,7 @@ export default defineConfig({
             // { text: 'one', link: '/blog/laravel/one' },
             {
               text: "Bootcamp : Build Chirper App",
-              link: "/blog/laravel/laravel-bootcamp",
+              link: "/blog/laravel/bootcamp",
             },
             {
               text: "Custom Pagination",
