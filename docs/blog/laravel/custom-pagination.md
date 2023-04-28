@@ -4,16 +4,16 @@ Source : [Laravel Documentation](https://laravel.com/docs/10.x/pagination#custom
 
 This is how to setup custom pagination in Laravel.
 
-# Setup
+## Setup
 ```bash
 php artisan vendor:publish --tag=laravel-pagination
 ```
 
-# Make new file
+## Make new file
 
 resources\views\vendor\pagination\custom-tailwind.blade.php
 
-# Paste this code
+## custom-tailwind.blade.php
 ```html
 @if ($paginator->hasPages())
     <nav role="navigation" aria-label="{{ __('Pagination Navigation') }}" class="flex items-center justify-between">
@@ -123,7 +123,7 @@ resources\views\vendor\pagination\custom-tailwind.blade.php
 @endif
 ```
 
-# Open AppServiceProvider.php and add the following code
+## Open AppServiceProvider.php and add the following code
 
 ```php
 public function boot(): void

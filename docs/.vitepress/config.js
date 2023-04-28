@@ -39,8 +39,8 @@ export default defineConfig({
           items: [
             // { text: 'one', link: '/blog/laravel/one' },
             {
-              text: "Laravel Bootcamp : Build Chirper with Blade",
-              link: "/blog/laravel/laravel-bootcamp-chirper-with-blade",
+              text: "Laravel Bootcamp : Build Chirper App",
+              link: "/blog/laravel/laravel-bootcamp",
             },
             {
               text: "Laravel Custom Pagination",
